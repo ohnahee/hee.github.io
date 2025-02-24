@@ -1,0 +1,19 @@
+title: My New Blog
+description: Welcome to my Jekyll blog with the-plain theme!
+baseurl: "" 
+url: "https://hee.github.io"
+
+# Jekyll 플러그인 설정
+plugins:
+  - jekyll-remote-theme
+
+# 원격 테마 설정
+remote_theme: heiswayi/the-plain
+
+# 사이트 메타데이터
+author:
+  name: Ohnahee
+  email: ohnahee0824#gmail.com
+
+# 빌드 설정
+markdown: kramdown
